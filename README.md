@@ -28,6 +28,8 @@ DDE Dock 是深度桌面环境（DDE）的任务栏或 dock 栏性质的组件�
 * github https://github.com/BLumia
 * email wangzichong@deepin.org
 
+### 赛题分类
+界面设计（Shell\GUI等）
 
 ### 难度
 
